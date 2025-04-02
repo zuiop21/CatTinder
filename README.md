@@ -1,6 +1,6 @@
 # CatTinder - Small iOS school project
 
-![login](./images/login.png)
+<img src="./images/login.png" alt="CatTinder Preview" width="400">
 
 CatTinder is a playful mobile application that allows users to browse cat images, like their favorites, and manage a list of liked cats. The app mimics a Tinder-style swipe mechanism for an engaging user experience.
 
