@@ -1,7 +1,5 @@
 # CatTinder - Small iOS school project
 
-<img src="./images/login.png" alt="CatTinder Preview" width="400">
-
 CatTinder is a playful mobile application that allows users to browse cat images, like their favorites, and manage a list of liked cats. The app mimics a Tinder-style swipe mechanism for an engaging user experience.
 
 ## Features
@@ -18,6 +16,16 @@ CatTinder is a playful mobile application that allows users to browse cat images
 - **Firebase**: Backend support for authentication and data management.
 - **AsyncImage & Caching**: Ensures smooth image loading and performance optimization.
 - **MVVM Architecture**: Separates business logic from the UI for better maintainability.
+
+## Preview
+
+<img src="./images/login.png" alt="CatTinder Preview" width="300">
+<img src="./images/list_empty.png" alt="CatTinder Preview" width="300">
+<img src="./images/list.png" alt="CatTinder Preview" width="300">
+<img src="./images/swipe.png" alt="CatTinder Preview" width="300">
+<img src="./images/swipe_right.png" alt="CatTinder Preview" width="300">
+<img src="./images/swipe_left.png" alt="CatTinder Preview" width="300">
+<img src="./images/data.png" alt="CatTinder Preview" width="300">
 
 
 
